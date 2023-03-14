@@ -2,8 +2,9 @@
 ![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)
 <h1 align="center">Hi 👋, I'm Maaz Rehman</h1>
 <h3 align="center">Technophile | Front-end Developer</h3>
-<div style="display: flex; justify-content: center; align-items:center">
-<img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+<div style="display: flex; justify-content: center; align-items:center;">
+<img align="center"  alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 <br/>
