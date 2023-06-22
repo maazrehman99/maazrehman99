@@ -13,9 +13,9 @@
 
 
 
-- 🔭 I’m currently working on **Front-End Projects**
+- 🔭 I’m currently working on **Front-End /Back-end Projects**
 
-- 🌱 I’m currently learning **MERN Stack Development ,Data Science**
+- 🌱 I’m currently learning **Full Stack Development **
 
 - 👯 I’m looking to collaborate on **Front-End/Back-End Projects**
 
