@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://www.infomazeelite.com/wp-content/uploads/2022/02/Hire-MERN-Stack-Developers-from-us.png" alt="MasterHead" />
+<!--   <img src="[https://www.infomazeelite.com/wp-content/uploads/2022/02/Hire-MERN-Stack-Developers-from-us.png](https://www.iventra.com/assets/images/bg/back-end-developer.gif)" alt="MasterHead" /> -->
 </div>
 
 <h1 align="center">Hi 👋, I'm Maaz Rehman</h1>
-<h3 align="center">Technophile | MERN Stack Developer</h3>
+<h3 align="center">Technophile | Full Stack Developer | AI Engineering</h3>
 
 <div align="center">
   <img alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on **Front-End /Back-end Projects**
 
-- 🌱 I’m currently learning **Full Stack Development **
+- 🌱 I’m currently learning **Artificial Intelligence || Machine Learning**
 
-- 👯 I’m looking to collaborate on **Front-End/Back-End Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 💬 Ask me about **React,JavaScript.**
 
