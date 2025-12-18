@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Maaz Rehman</h1>
-<h3 align="center">Technophile | Full Stack Developer | AI Engineering</h3>
+<h3 align="center">Technophile | Full Stack Engineer | AI Engineering</h3>
 
 <div align="center">
   <img alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
