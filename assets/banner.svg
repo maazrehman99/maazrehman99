@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Maaz Rehman, Full Stack AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#101a3a"/>
+      <stop offset="1" stop-color="#1b1146"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0.35"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="900" height="240" rx="18"/></clipPath>
+    <style>
+      .name { font: 700 54px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; letter-spacing: 0.5px; }
+      .tag  { font: 500 24px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: url(#accent); }
+      .sub  { font: 400 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #9fb0d0; }
+      .line { opacity: 0; animation: cycle 12s infinite; }
+      .l1 { animation-delay: 0s; } .l2 { animation-delay: 4s; } .l3 { animation-delay: 8s; }
+      @keyframes cycle {
+        0%   { opacity: 0; transform: translateY(8px); }
+        4%   { opacity: 1; transform: translateY(0); }
+        29%  { opacity: 1; transform: translateY(0); }
+        33%  { opacity: 0; transform: translateY(-8px); }
+        100% { opacity: 0; }
+      }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .dot { animation: pulse 2.4s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+      @keyframes pulse { 0%,100% { opacity: 0.35; transform: scale(1); } 50% { opacity: 1; transform: scale(1.5); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="900" height="240" fill="url(#bg)"/>
+
+    <!-- soft moving glow -->
+    <circle cx="760" cy="60" r="120" fill="#38bdf8" opacity="0.08">
+      <animate attributeName="cx" values="760;700;760" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="210" r="140" fill="#a78bfa" opacity="0.08">
+      <animate attributeName="cx" values="120;190;120" dur="11s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- node network, top right -->
+    <g stroke="#38bdf8" stroke-opacity="0.35" stroke-width="1.2" fill="none">
+      <path d="M700 40 L770 78 L840 40 M770 78 L760 150 L830 170 M760 150 L690 175"/>
+    </g>
+    <g fill="#a78bfa">
+      <circle class="dot" cx="700" cy="40" r="4"/>
+      <circle class="dot" cx="770" cy="78" r="5" style="animation-delay:.5s"/>
+      <circle class="dot" cx="840" cy="40" r="4" style="animation-delay:1s"/>
+      <circle class="dot" cx="760" cy="150" r="5" style="animation-delay:1.5s"/>
+      <circle class="dot" cx="830" cy="170" r="4" style="animation-delay:.8s"/>
+      <circle class="dot" cx="690" cy="175" r="4" style="animation-delay:1.9s"/>
+    </g>
+
+    <text x="48" y="98" class="name">Maaz Rehman</text>
+
+    <g transform="translate(48,150)">
+      <g class="line l1"><text class="tag">Full Stack AI Engineer</text></g>
+      <g class="line l2"><text class="tag">RAG and LLM systems that run in production</text></g>
+      <g class="line l3"><text class="tag">Retrieval latency: 27–32 s down to 6–10 s</text></g>
+    </g>
+    <rect class="cursor" x="48" y="168" width="10" height="3" rx="1.5" fill="#38bdf8"/>
+    <text x="48" y="202" class="sub">Karachi, Pakistan · founding engineer at COROS AI</text>
+
+    <!-- waves -->
+    <path fill="url(#wave)" d="M-300 214 C-150 190 0 238 150 214 C300 190 450 238 600 214 C750 190 900 238 1050 214 C1200 190 1350 238 1500 214 L1500 240 L-300 240 Z">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -150 0; 0 0" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <path fill="url(#wave)" opacity="0.7" d="M-300 226 C-150 206 0 246 150 226 C300 206 450 246 600 226 C750 206 900 246 1050 226 C1200 206 1350 246 1500 226 L1500 240 L-300 240 Z">
+      <animateTransform attributeName="transform" type="translate" values="-150 0; 0 0; -150 0" dur="10s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
