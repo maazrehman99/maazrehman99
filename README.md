@@ -1,40 +1,43 @@
-<div align="center">
-<!--   <img src="[https://www.infomazeelite.com/wp-content/uploads/2022/02/Hire-MERN-Stack-Developers-from-us.png](https://www.iventra.com/assets/images/bg/back-end-developer.gif)" alt="MasterHead" /> -->
-</div>
+<h1 align="center">Maaz Rehman</h1>
 
-<h1 align="center">Hi 👋, I'm Maaz Rehman</h1>
-<h3 align="center">Technophile | Full Stack Engineer | AI Engineering</h3>
-
-<div align="center">
-  <img alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
-
-<br/>
-
-
-
-- 🔭 I’m currently working on **Front-End /Back-end Projects**
-
-- 🌱 I’m currently learning **Artificial Intelligence || Machine Learning**
-
-- 👯 I’m looking to collaborate on **Full Stack Projects**
-
-- 💬 Ask me about **React,JavaScript.**
-
-- 📫 How to reach me **maaz97965@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/maaz-rehman-4b80911a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maaz-rehman-4b80911a6" height="30" width="40" /></a>
-<a href="https://kaggle.com/maazrehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="maazrehman" height="30" width="40" /></a>
-<a href="https://www.behance.net/maazrehman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="maazrehman1" height="30" width="40" /></a>
+<p align="center">
+  Full Stack AI Engineer · Karachi, Pakistan<br/>
+  I build retrieval and LLM systems that run in production, and I like fixing what makes them slow or wrong.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.maaz-ai.dev/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/maaztech/">LinkedIn</a> ·
+  <a href="mailto:maaz@maaz-ai.dev">maaz@maaz-ai.dev</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maazrehman99&show_icons=true&locale=en&layout=compact" alt="maazrehman99" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maazrehman99&show_icons=true&locale=en" alt="maazrehman99" /></p>
+### What I do now
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maazrehman99&" alt="maazrehman99" /></p>
+Founding full-stack AI engineer at **COROS AI** since April 2025. I designed and built the AI platform from scratch as a set of services, and own features from system design to deployment.
+
+- Cut average response time of our retrieval pipeline from **27–32 s to 6–10 s** by reworking semantic search and retrieval.
+- Built a semantic memory layer with topic-isolated user spaces and time-based decay, so context from one topic does not leak into another.
+- Added automated evals with relevance scoring, and HyDE-based retrieval to reduce hallucinations.
+
+### Projects
+
+| Project | What it is |
+|---|---|
+| [**NextBook**](https://github.com/maazrehman99/NextBook) · [live](https://next-book-pearl.vercel.app) | Book recommendation system with a retrieval-augmented LLM pipeline. Deployed at Abul Kalam University Library, 200+ users, about 50% faculty adoption. |
+| [**PinpointAI**](https://github.com/maazrehman99/PinpointAI) · [live](https://pinpoint-ai.vercel.app) | Turns meeting transcripts (VTT or DOCX) into editable action items, with PDF export. Next.js, Express, OpenAI API. |
+
+### Stack
+
+**Languages** Python, TypeScript, SQL, JavaScript<br/>
+**AI** RAG, LLM orchestration, agentic workflows, LangChain, LangGraph, OpenAI and Claude APIs<br/>
+**Data** PostgreSQL with pgvector, Pinecone, Redis<br/>
+**Backend and cloud** FastAPI, Node.js, Docker, Terraform, GitHub Actions, Google Cloud (Vertex AI, Cloud Run)<br/>
+**Frontend** React, Next.js, Tailwind
+
+### Elsewhere
+
+BS in Computer Science (AI and ML), NED University, expected 2027. Winner of the Data Insights Hackathon.
+
+If you have a retrieval or LLM system that is slow, wrong, or hard to trust, I am happy to talk.
